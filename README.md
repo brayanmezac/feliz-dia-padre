@@ -3,4 +3,4 @@ esta es una web del metaverso para el dia de padre la cual mediante un NFT Marke
 
 el nft-marker debe ser mostrado para que la web desplienge las imagenes mediante imagentraker
 
-![NFT-Ativador(./imagen/imagenpadre.png)
+<div style="text-align:center"><img src="./imagen/imagenpadre.png" /></div>
